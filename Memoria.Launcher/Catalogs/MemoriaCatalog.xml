@@ -1,6 +1,53 @@
 ﻿<ModCatalog>
 
 <Mod>
+	<Name>Less Missable Items</Name>
+ 	<Version>1.0</Version>
+ 	<InstallationPath>Less Missable Items</InstallationPath>
+ 	<Author>Zehn</Author>
+ 	<Description>
+# -----------------------------------------------
+#
+# 5   ; Zorlin Shape   --> Daguerreo
+# 18  ; Mythril Sword  --> Treno
+# 22  ; Diamond Sword  --> Black Mage Village
+# 23  ; Flame Saber    --> Black Mage Village
+# 24  ; Rune Blade     --> Daguerreo
+# 31  ; Javelin        --> Lindblum
+# 35  ; Trident        --> Black Mage Village
+# 36  ; Heavy Lance    --> Black Mage Village
+# 37  ; Obelisk        --> Daguerreo
+# 43  ; Mythril Claws  --> Black Mage Village
+# 44  ; Scissor Fangs  --> Black Mage Village
+# 46  ; Tiger Fangs    --> Daguerreo
+# 51  ; Air Racket     --> Treno
+# 61  ; Asura's Rod    --> Daguerreo
+# 66  ; Fairy Flute    --> Black Mage Village
+# 67  ; Hamelin        --> Daguerreo
+# 76  ; Octagon Rod    --> Daguerreo
+# 82  ; Silver Fork    --> Black Mage Village
+# 103 ; Silver Gloves  --> Lindblum
+# 106 ; Diamond Gloves --> Black Mage Village
+# 118 ; Bandana        --> Treno
+# 125 ; Green Beret    --> Black Mage Village
+# 126 ; Black Hood     --> Black Mage Village
+# 138 ; Iron Helm      --> Lindblum
+# 151 ; Leather Plate  --> Lindblum
+# 153 ; Chain Plate    --> Treno
+# 154 ; Mythril Vest   --> Lindblum
+# 159 ; Judo Uniform   --> Black Mage Village
+# 179 ; Chain Mail     --> Treno
+# 182 ; Gold Armor     --> Black Mage Village
+#
+# -----------------------------------------------
+	</Description>
+ 	<Category>Various</Category>
+ 	<Website></Website>
+ 	<DownloadUrl>https://www.mediafire.com/file/9qivmge7c65tnhd/Less_Missable_Items.zip/file</DownloadUrl>
+ 	<PreviewFileUrl></PreviewFileUrl>
+</Mod>
+
+<Mod>
 	<Name>Moguri Mod</Name>
 	<Version>8.3.0.0</Version>
 	<InstallationPath>MoguriFiles</InstallationPath>
